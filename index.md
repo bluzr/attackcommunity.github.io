@@ -10,8 +10,8 @@ Press Release
 MITRE ATT&CK Community for Africa & Middle East
 
 
-Today on 7 June 2021 at 17:00 PM GMT+2, we are so happy to announce our [web](https://attackcommunity.org)
-The MEA ATT&CK community is a vendor agnostic community where end-users, decision makers, researchers and all who will interest to discuss and exchange their use and experience of MITRE Framework in practical cases during day-to-day activities.
+Today on 7 June 2021 at 17:00 PM GMT+2, we are so happy to announce our [website](https://attackcommunity.org)
+The AME ATT&CK community is a vendor agnostic community where end-users, decision makers, researchers and all who will interest to discuss and exchange their use and experience of MITRE Framework in practical cases during day-to-day activities.
 
 The AME ATT&CK Community is a community of cybersecurity professionals who actively using MITRE ATT&CK to improve cyber operations inside or outside organizations regionally.
 
