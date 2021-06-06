@@ -21,7 +21,7 @@ The AME ATT&CK Community was set up in agreement on 8 Jan 2020 with MITRE Team, 
 
 More Information about MITRE: [ATT&CK](https://attack.mitre.org)
 
-For more information about upcoming activities and workshops: [email](info@attackcommunity.org)
+For more information about upcoming activities and workshops: info@attackcommunity.org 
 
 [Twitter](https://twitter.com/AttackMea )
     
