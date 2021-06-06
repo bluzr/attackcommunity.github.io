@@ -2,7 +2,7 @@
 layout: home
 ---
 
-[img](https://i.ibb.co/0V99PNv/AME-community.png)
+
 
 7 June 2021-1700 PM GMT+2
 
