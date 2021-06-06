@@ -1,7 +1,7 @@
 ---
 layout: home
 ---
-![image info](pictures/image.png)
+![image info](assets/AME community.png)
 
 7 June 2021-1700 PM GMT+2
 
