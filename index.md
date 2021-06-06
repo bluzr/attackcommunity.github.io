@@ -2,7 +2,9 @@
 layout: home
 ---
 7 June 2021 | 1700 PM GMT+2
+
 Press Release
+
 MITRE ATT&CK Community for Africa & Middle East
 
 
@@ -16,6 +18,8 @@ Our community will be a central hub for research and improve MITRE ATT&CK framew
 The AME ATT&CK Community was set up in agreement on 8 Jan 2020 with MITRE Team, but it is not operated by MITRE, also the content of our webpages, workshops and all upcoming events are not endorsed by MITRE organization.
 
 More Information about MITRE: https://attack.mitre.org
+
 For more information about upcoming activities and workshops: info@attackcommunity.org
+
 Twitter: https://twitter.com/AttackMea
     
