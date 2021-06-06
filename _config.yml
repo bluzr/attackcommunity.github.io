@@ -6,7 +6,7 @@ theme: jekyll-theme-leaf
 permalink: :slug
 
 social:
-  twitter: _AttackMea
+  twitter: AttackMea
 
 
 plugins:
