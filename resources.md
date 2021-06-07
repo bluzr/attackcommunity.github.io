@@ -48,7 +48,7 @@ layout: page
 - [Purple Teaming with ATT&CK - x33fcon 2018](https://www.slideshare.net/ChristopherKorban/purple-teaming-with-attck-x33fcon-2018)
 - [Live Adversary Simulation: Red and Blue Team Tactics](https://www.rsaconference.com/writable/presentations/file_upload/hta-t06_live_adversary_simulation-red_and_blue_team_tactics.pdf)
 - [MITRE ATT&CKcon 2018: Playing Devil’s Advocate to Security Initiatives with ATT&CK, David Middlehurst, Trustwave](https://www.slideshare.net/attackcon2018/mitre-attckcon-2018-playing-devils-advocate-to-security-initiatives-with-attck-david-middlehurst-trustwave)
-- [MITRE ATT&CKcon 2018: From Red VS Blue to Red ♥ Blue, Olaf Hartong and Vincent Van Mieghem, Deloitte](https://www.slideshare.net/attackcon2018/mitre-attckcon-2018-from-red-vs-blue-to-red-blue-olaf-hartong-and-vincent-van-mieghem-deloitte)
+- [MITRE ATT&CKcon 2018: From Red VS Blue to Red love Blue, Olaf Hartong and Vincent Van Mieghem, Deloitte](https://www.slideshare.net/attackcon2018/mitre-attckcon-2018-from-red-vs-blue-to-red-blue-olaf-hartong-and-vincent-van-mieghem-deloitte)
 - [PowerShell for Practical Purple Teaming](https://www.slideshare.net/nikhil_mittal/powershell-for-practical-purple-teaming)
 - [Signal the ATT&CK: Part 1](https://www.pwc.co.uk/issues/cyber-security-data-privacy/research/signal-att-and-ck-part-1.html)
 - [Signal the ATT&CK: Part 2](https://www.pwc.co.uk/issues/cyber-security-data-privacy/research/signal-att-and-ck-part-2.html)
