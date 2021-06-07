@@ -34,7 +34,7 @@ layout: page
 - [DeTTACT](https://github.com/rabobank-cdc/DeTTACT) - DeTT&CT aims to assist blue teams using ATT&CK to score and compare data log source quality, visibility coverage, detection coverage and threat actor behaviours.
 - [atomic-threat-coverage](https://github.com/krakow2600/atomic-threat-coverage) - Automatically generated actionable analytics designed to combat threats based on MITRE's ATT&CK.
 - [pyattck](https://github.com/swimlane/pyattck) - A python package to interact with the Mitre ATT&CK Framework. You can find documentation [here](https://pyattck.readthedocs.io/en/latest/)
-- [cti](https://github.com/mitre/cti) - Cyber Threat Intelligence Repository expressed in STIX 2.0
+
 
 ------
 
@@ -66,7 +66,7 @@ layout: page
 - [Finding Related ATT&CK Techniques](https://medium.com/mitre-attack/finding-related-att-ck-techniques-f1a4e8dfe2b6)
 - [Getting Started with ATT&CK: Detection and Analytics](https://medium.com/mitre-attack/getting-started-with-attack-detection-a8e49e4960d0)
 - [2019 Threat Detection Report](https://redcanary.com/resources/guides/threat-detection-report/)
-- [A Process is No One : Hunting for Token Manipulation](https://specterops.io/assets/resources/A_Process_is_No_One.pdf)
+
 
 ------
 
