@@ -38,6 +38,11 @@ layout: page
 
 ------
 
+## Arabic Resources 
+- [Translated Arabic version of MITRE ATT&CK](https://github.com/Malajab/incyber) 
+
+------
+
 ## More Resources 
 - [Getting Started with ATT&CK: Adversary Emulation and Red Teaming](https://medium.com/mitre-attack/getting-started-with-attack-red-29f074ccf7e3)
 - [Adversary Emulation Plans](https://attack.mitre.org/resources/adversary-emulation-plans/)
